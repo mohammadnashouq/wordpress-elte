@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,KAAK,CAAA;EACD,mBAAmB,CAAA,QAAC;EACpB,mBAAmB,CAAA,QAAC;EACpB,mBAAmB,CAAA,KAAC;EACpB,4BAA4B,CAAA,QAAC;CAChC;;AACD,AAAA,iBAAiB,CAAA;EACb,UAAU,EAAE,wBAAwB,CAAA,UAAU;EAC9C,gBAAgB,EAAE,wBAAwB,CAAA,UAAU;CACvD;;AACD,AAAA,qBAAqB,CAAA;EACjB,YAAY,EAAE,wBAAwB,CAAA,UAAU;CACnD",
-    "sources": [
-        "color4.scss"
-    ],
-    "names": [],
-    "file": "color4.css"
-}

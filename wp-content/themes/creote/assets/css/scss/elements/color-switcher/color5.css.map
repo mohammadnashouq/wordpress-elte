@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,KAAK,CAAA;EACD,mBAAmB,CAAA,OAAC;EACpB,mBAAmB,CAAA,OAAC;EACpB,mBAAmB,CAAA,KAAC;EACpB,4BAA4B,CAAA,OAAC;CAChC;;AAED,AAAA,iBAAiB,CAAA;EACb,UAAU,EAAE,wBAAwB,CAAA,UAAU;EAC9C,gBAAgB,EAAE,wBAAwB,CAAA,UAAU;CACvD;;AACD,AAAA,qBAAqB,CAAA;EACjB,YAAY,EAAE,wBAAwB,CAAA,UAAU;CACnD",
-    "sources": [
-        "color5.scss"
-    ],
-    "names": [],
-    "file": "color5.css"
-}
