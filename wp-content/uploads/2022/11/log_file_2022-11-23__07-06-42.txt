@@ -1,0 +1,92 @@
+
+---Downloaded files---
+The import files for: Creote Elementor  Demo Content (Home 1 to 12 pages) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/elte_test/wordpress
+Data file = C:\xampp\htdocs\elte_test\wordpress/wp-content/themes/creote//includes/demo-content/demo-content/demo-content-version-1/creoteelementor3.xml
+Widget file = C:\xampp\htdocs\elte_test\wordpress/wp-content/themes/creote//includes/demo-content/demo-content/demo-content-version-1/c-widgets.wie
+Customizer file = not defined!
+Redux files:
+creote_theme_mod -> C:\xampp\htdocs\elte_test\wordpress/wp-content/themes/creote//includes/demo-content/demo-content/demo-content-version-1/redux_options_3.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "banner-replace-3.jpg" (Media)
+[ERROR] Failed to import "banner-replace-2.jpg" (Media)
+[ERROR] Failed to import "banner-replace-1.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "banner-replace-3.jpg" (Media)
+[ERROR] Failed to import "banner-replace-2.jpg" (Media)
+[ERROR] Failed to import "banner-replace-1.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "banner-replace-3.jpg" (Media)
+[ERROR] Failed to import "banner-replace-2.jpg" (Media)
+[ERROR] Failed to import "banner-replace-1.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "banner-replace-3.jpg" (Media)
+[ERROR] Failed to import "banner-replace-2.jpg" (Media)
+[ERROR] Failed to import "banner-replace-1.jpg" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "banner-replace-3.jpg" (Media)
+[ERROR] Failed to import "banner-replace-2.jpg" (Media)
+[ERROR] Failed to import "banner-replace-1.jpg" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Imported
+Creote - About Authour  - About Authour - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Page Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Shop Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Products by Rating list - Top rated products - Imported
+
+Service Sidebar : 
+
+Creote - Service List - Our Services - Imported
+Creote - Brochure Download - A Complete Guide to Employee  Engagement - Imported
+Creote - Contact Us - Have Questions? - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: creote_theme_mod finished successfully!
+
+---ocdi/after_import---
+
